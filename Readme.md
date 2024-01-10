@@ -3,7 +3,7 @@
 ## ARCHITECTURE OF MODULE
 
 
-#### modules directory: This is the place where we create scaleton of the resources.
+#### modules directory: This is the directory where we create skeleton of the resources.
 #### vm1 directory: This directory contains information related to vm1 deployment
 #### vm2 directory: This directory contains information related to vm2 deployment
 
