@@ -1,0 +1,14 @@
+resource_group_name = "dev-vg1"
+location = "East US"
+vnet_name = "ankita-vnet"
+vnet_rg = "ankita-test"
+subnet_name = "priv-subnet"
+vm_name = "DevVM1"
+os_disk_type = "Standard_LRS"
+admin_username = "adminuser"
+vm_size = "Standard_F2"
+image_publisher = "Canonical"
+disk_sizes = [10, 20, 30]
+image_offer = "0001-com-ubuntu-server-jammy"
+image_sku = "22_04-lts"
+disk_count=0
