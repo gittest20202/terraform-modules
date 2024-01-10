@@ -1,8 +1,11 @@
-# USE MODULE TO DEPLOY VM IN DEV AND QA ENVIRONMENT
+# USE MODULE TO DEPLOY VMS 
+
 ## ARCHITECTURE OF MODULE
 
-#### modules directory: This is the place where we create scaleton of the resources.
 
+#### modules directory: This is the place where we create scaleton of the resources.
+#### vm1 directory: This directory contains information related to vm1 deployment
+#### vm2 directory: This directory contains information related to vm2 deployment
 
 ## Deploy VM1 
 ``` 
